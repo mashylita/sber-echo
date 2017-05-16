@@ -1,4 +1,4 @@
-package ru.sbt.echo;
+package main.java.ru.sbt.echo;
 
 import java.util.logging.Logger;
 
